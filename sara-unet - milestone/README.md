@@ -17,7 +17,7 @@ None
 
 ### Model
 
-![/u-net.png](/u-net.png)
+![img/u-net.png](img/u-net.png)
 
 This deep neural network is implemented with Keras functional API.
 
