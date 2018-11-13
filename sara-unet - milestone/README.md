@@ -27,7 +27,7 @@ Output from the network is a 256x256x3.
 
 The model is trained for 5 epochs.
 
-Loss function for the training is catagorial crossentropy.
+Loss function for the training is categorial crossentropy.
 
 
 ---
